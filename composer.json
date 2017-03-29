@@ -22,6 +22,7 @@
         "drupal/console": "~1.0",
         "drupal/core": "~8.0",
         "drush/drush": "~8.0",
+        "drupal/redis": "dev-1.x",
         "webflo/drupal-finder": "^0.2.1",
         "webmozart/path-util": "^2.3",
         "ext-gd": "*",
