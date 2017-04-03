@@ -26,7 +26,9 @@
         "webflo/drupal-finder": "^0.2.1",
         "webmozart/path-util": "^2.3",
         "ext-gd": "*",
-        "ext-mbstring": "*"
+        "ext-mbstring": "*",
+        "php":"^7",
+        "ext-redis": "*"
     },
     "require-dev": {
         "behat/mink": "~1.7",
